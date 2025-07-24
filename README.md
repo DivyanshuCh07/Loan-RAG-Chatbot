@@ -52,6 +52,4 @@ How many applicants are self-employed?
 List the applicants with poor credit scores.
 What is the average loan amount requested?
 
-
-👨‍💻 Author
 Built with ❤️ by Divyanshu Choudhary
